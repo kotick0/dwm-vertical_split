@@ -1,2 +1,2 @@
 # dwm-vertical_split
-Vertical split patch for dwm when nmaster >= 2
+This patch changes the default behaviour of dwm from horizontal split with nmaster >= 2 to vertical.
